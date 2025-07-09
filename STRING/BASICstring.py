@@ -23,7 +23,7 @@ print(a)
 #Strings are Arrays - Square brackets can be used to access elements of the string.
 
 a = "Hello, World!"
-print(a[1])
+print(a[1]) # return will be 'e'
 
 #Since strings are arrays, we can loop through the characters in a string, with a for loop.
 

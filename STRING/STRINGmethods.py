@@ -1,9 +1,9 @@
 print("Method	Description")
 
 """
-capitalize()=	Converts the first character to upper case
+capitalize()	Converts the first character to upper case
 
-casefold()	=Converts string into lower case
+casefold()	Converts string into lower case
 
 center()	Returns a centered string
 
