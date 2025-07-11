@@ -9,7 +9,7 @@ Loop through the set, and print the values:
 """
 a= {"apple", "banana", "cherry"}
 
-for x in thisset:
+for x in a:
   print(x)
 """
 Check if "banana" is present in the set:
