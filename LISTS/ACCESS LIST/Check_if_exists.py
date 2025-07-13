@@ -6,10 +6,10 @@ Example
 Check if "apple" is present in the list:
 """
 
-
 a = ["apple", "banana", "cherry"]
 if "apple" in a:
     print(" The item is present in the list ")
+
 
 
 
